@@ -1,0 +1,1 @@
+В разделе presentation находятся фичи и их часть, связанная с UI: Bloc, Page, widgets
